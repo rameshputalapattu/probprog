@@ -20,4 +20,4 @@ var model = function() {
     condition(expert_poor);
     return good_startup;
   }
-  print(Infer(model));
+Infer(model);
